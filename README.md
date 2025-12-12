@@ -37,12 +37,19 @@ O **Devlingo** é uma plataforma educacional inspirada no Duolingo, mas criada p
 A aplicação possui:
 
 ✔ Gamificação
+
 ✔ Lições organizadas
+
 ✔ Feedback imediato
+
 ✔ Progresso salvo
+
 ✔ Trilha visual interativa
+
 ✔ Mascote próprio
+
 ✔ Sistema de login / cadastro
+
 ✔ Integração com Supabase
 
 ---

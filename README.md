@@ -2,7 +2,7 @@
 
 > Uma plataforma gamificada para aprender **JavaScript** e conceitos de desenvolvimento — com XP, lições, feedback visual e trilha de progresso.
 
-🔗 **Acesse o projeto:** [https://devlingo-ten.vercel.app/login](https://devlingo-ten.vercel.app)
+🔗 **Acesse o projeto:** [https://devlingo-ten.vercel.app](https://devlingo-ten.vercel.app)
 
 ---
 
